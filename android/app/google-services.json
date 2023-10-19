@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258909425945",
+    "project_id": "nexpro-goal",
+    "storage_bucket": "nexpro-goal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258909425945:android:61cb26ceb79efccb0b3588",
+        "android_client_info": {
+          "package_name": "com.example.nexpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVqLrlTCb6IY9crRSOfQkPowt6snUqx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
